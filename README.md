@@ -1,8 +1,8 @@
 # Hola! 
-- 👋 Hi, I’m Galih Muhammad Ramdan
-- 👀 I’m interested in Full Stacks Web Developer and Mobile Native App
+- 👋 Hi, I’m Muhamad Luthfi Farid Sidik
+- 👀 I’m interested in Backend Web Developer
 - I'm a student majoring in informatics engineering
-- 📫 How to reach me: you can contact me on Instagram @galihmramdan17 or Email galihmramdan17@gmail.com  
+- 📫 How to reach me: you can contact me on Instagram @mluthfifarid
 
 
 <p align="left">
